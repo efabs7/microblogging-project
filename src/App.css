@@ -1,0 +1,42 @@
+p {
+  margin: 0px;
+  padding: 1px;
+}
+
+input:focus {
+outline: none;
+}
+
+.hidden {
+  display: none;
+}
+
+a {
+  color: var(--header-text)
+}
+a:hover {
+  color: var(--header-text);
+  text-decoration: none;
+  opacity: 0.6;
+}
+a:active {
+  opacity: 0.4;
+}
+
+#bootstrap-overrides > nav {
+  height: "58px";
+  width: "1076px";
+  background: "var(--background-text)";
+  border-radius: "var(--border-radius-m)";
+  color: "var(--header-text)";
+  margin-bottom: "40px";
+  padding-left: "30px";
+  margin-top: "0px";
+}
+
+
+.error-text {
+  color: red;
+
+}
+

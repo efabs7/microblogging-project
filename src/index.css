@@ -1,0 +1,30 @@
+body {
+  margin-top: 1px;
+  background-color: #15202B;
+ 
+}
+
+
+:root {
+  --font-family: 'Roboto', 'sans-serif';
+  --font-style: normal;
+  --font-weight: 400;
+  --font-size-posts: 14px;
+  --font-size-large: 16px;
+  --posts-text: #ffffff;
+  --gray-text: #6C757D;
+  --header-text: #CCCCCC;
+  --errors-text: #721C24;
+  --color-button: #007BFF;
+  --border-radius-s: 4px;
+  --border-radius-m: 6px;
+  --background-error: #F8D7DA;
+  --border-error: 1px solid #F5C6CB;
+  --background-text: #343A40;
+  --background-body: #15202B;
+  --gap: 20px;
+  --gap-m: 16px;
+  --gap-xs: 5px;
+
+}
+
